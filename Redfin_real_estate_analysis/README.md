@@ -6,7 +6,7 @@ Python Web Scraping and Data Mining
 - It is fascinating to see new technologies are affecting how people buy homes.
 - The data makes up an important part of the business of real estate, so keeping it accurate and up-to-date is crucial to maintaining a positive customer experience.
 
-###What am I interested in finding out from scraping the website?
+### What am I interested in finding out from scraping the website?
 1. Price between different types of properties in the location of the area of the city (bay, inner city, suburban, urban)
 2. Which type of properties are being sold?
 3. Price per square feet between type of property
@@ -14,12 +14,12 @@ Python Web Scraping and Data Mining
 5. What are the features (gas, electricity), amenities (gym, pool) offered by the property?
 6. The average number of days a listing has been on the site in each of those five years as well
 
-###Objectives:
+### Objectives:
 1. Find out the median prices of different types of homes in metro cities
 2. What type of property is being sold? 
 3. What type of features, or amenities of the sold property are they interested in?
 
-###Plan of potential approach:
+### Plan of potential approach:
 1. Using BeautifulSoup package and Selenium
 2. I want to scrape the number of homes for sale in a given location (Vancouver, BC & Toronto, ON).
 
